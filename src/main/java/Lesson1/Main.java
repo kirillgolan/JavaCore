@@ -1,7 +1,7 @@
 /**
  * Java 1. Lesson #1
  *
- * @author KirillGolan
+ * @author Kirill Golan
  * @version 21.03.22.
  */
 
