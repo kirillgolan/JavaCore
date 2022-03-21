@@ -58,47 +58,4 @@ public abstract class Animal implements Participant{
         System.out.println(type + " " + name + ": " + onDistance);
     }
 
-    public String getType() {
-        return type;
-    }
-
-    public void setType(String type) {
-        this.type = type;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public float getMaxRun() {
-        return maxRun;
-    }
-
-    public void setMaxRun(int maxRun) {
-        this.maxRun = maxRun;
-    }
-
-    public float getMaxJump() {
-        return maxJump;
-    }
-
-    public void setMaxJump(int maxJump) {
-        this.maxJump = maxJump;
-    }
-
-    public float getMaxSwim() {
-        return maxSwim;
-    }
-
-    public void setMaxSwim(int maxSwim) {
-        this.maxSwim = maxSwim;
-    }
-
-    public void setOnDistance(boolean onDistance) {
-        this.onDistance = onDistance;
-    }
 }
