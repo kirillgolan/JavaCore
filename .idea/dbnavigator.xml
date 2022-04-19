@@ -32,9 +32,7 @@
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files>
-      <object connection-id="4e0b887a-6c8e-49da-a5e0-7b108a0069d1" object-ref="consoles/Connection" />
-    </open-files>
+    <open-files />
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="4e0b887a-6c8e-49da-a5e0-7b108a0069d1" />

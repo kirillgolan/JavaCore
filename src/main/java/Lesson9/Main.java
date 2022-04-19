@@ -1,14 +1,12 @@
 package Lesson9;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Set;
-import java.util.function.Function;
 import java.util.stream.Collectors;
 
 
-public class Application {
+public class Main {
 
     static Set<String> task1(List<StudentClass> students) {
         return students.stream()
